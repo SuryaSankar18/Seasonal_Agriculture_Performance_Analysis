@@ -422,20 +422,71 @@ The project includes visualizations such as:
   <img width="672" height="466" alt="image" src="https://github.com/user-attachments/assets/34484022-6eb6-4b4c-976e-12bf06a508ff" />
 
 * Total production by season
-* Revenue, cost and profit comparison
-* Environmental condition comparison
+
+
+  <img width="712" height="467" alt="image" src="https://github.com/user-attachments/assets/0e0789e9-b397-491e-be18-6cfbf88b1e38" />
+
 * Rainfall distribution
+
+
+  <img width="701" height="465" alt="image" src="https://github.com/user-attachments/assets/81be83e4-8f21-41c9-b76e-f05a563f230b" />
+
 * Rainfall vs. yield
+
+
+  <img width="770" height="542" alt="image" src="https://github.com/user-attachments/assets/92263ef6-36d0-4bbf-8e2c-547091f5db7d" />
+
 * Temperature vs. yield
+
+
+  <img width="770" height="543" alt="image" src="https://github.com/user-attachments/assets/ccd0faae-00e4-4c64-9663-74c486f386e2" />
+
 * Soil moisture vs. yield
+
+
+  <img width="767" height="541" alt="image" src="https://github.com/user-attachments/assets/a0cdc67c-1533-41d1-8bdc-fdff01920e75" />
+
 * Water usage comparison
+
+
+  <img width="701" height="465" alt="image" src="https://github.com/user-attachments/assets/3f823793-3b40-4292-a727-7d6086d8bcf3" />
+
 * Water efficiency comparison
+
+
+  <img width="671" height="463" alt="image" src="https://github.com/user-attachments/assets/fcd5ae95-ee9d-456c-b622-3398c50076e9" />
+
 * Irrigation vs. yield
+
+
+  <img width="752" height="463" alt="image" src="https://github.com/user-attachments/assets/4882cd43-8c0e-4ff3-ab73-73a11f5c6b35" />
+
 * Crop yield comparison
+
+
+  <img width="842" height="592" alt="image" src="https://github.com/user-attachments/assets/5b049b24-448f-421b-be29-38688b1fb54e" />
+
 * Disease/pest risk analysis
+
+
+  <img width="682" height="462" alt="image" src="https://github.com/user-attachments/assets/b102b83a-917a-4162-a485-702823ea83e6" />
+  <img width="770" height="537" alt="image" src="https://github.com/user-attachments/assets/8a388858-096a-46ca-bd82-128d46a77a33" />
+
 * State-wise performance
+
+
+  <img width="817" height="557" alt="image" src="https://github.com/user-attachments/assets/c4798211-9a52-4234-8ec8-425b3f2d6b86" />
+
 * Correlation heatmap
+
+
+  <img width="775" height="557" alt="image" src="https://github.com/user-attachments/assets/269fb132-4bd0-4637-8659-352e315bd3c0" />
+
 * Outlier analysis
+
+
+  <img width="622" height="422" alt="image" src="https://github.com/user-attachments/assets/057a01bd-0004-4c0c-9e85-d17711fcb10d" />
+
 
 ---
 
