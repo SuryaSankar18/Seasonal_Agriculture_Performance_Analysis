@@ -412,7 +412,11 @@ Run the cells from top to bottom.
 The project includes visualizations such as:
 
 * Seasonal distribution
+  <img width="698" height="463" alt="image" src="https://github.com/user-attachments/assets/1bf86655-5d0d-48e9-b5c6-352e61be4922" />
+
 * Average yield by season
+  <img width="672" height="466" alt="image" src="https://github.com/user-attachments/assets/34484022-6eb6-4b4c-976e-12bf06a508ff" />
+
 * Total production by season
 * Revenue, cost and profit comparison
 * Environmental condition comparison
